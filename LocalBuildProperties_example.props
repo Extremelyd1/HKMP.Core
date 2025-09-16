@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup>
+        <!-- Fill in the output directory of the build, for example: "[steam]\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP" -->
+        <OutputDirectory>.\bin\Release\net472</OutputDirectory>
+    </PropertyGroup>
+</Project>
